@@ -1,0 +1,10 @@
+{
+    "package": "refresh_search_button",
+    "name": "Refresh Search Button",
+    "author": "FlaccidSnake",
+    "version": "1.0.0",
+    "homepage": "https://github.com/FlaccidSnake/browser-refresh",
+    "conflicts": [],
+    "min_anki_version": "24.06",
+    "max_anki_version": ""
+}
