@@ -1,6 +1,6 @@
 # Refresh Search Button
 
-An Anki addon that adds a refresh button (🔄) next to the search bar in the browser to quickly re-run the current search.
+An Anki addon that adds a refresh button (🔄) next to the search bar in the browser to quickly re-run the current search. Press F5 (configurable) for the same effect.
 
 ## Use Case
 
