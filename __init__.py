@@ -1,2 +1,2 @@
 # -*- coding: utf-8 -*-
-from . import refresh_search_button
+from . import browser_refresh_search_button
