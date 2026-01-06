@@ -1,6 +1,6 @@
 {
-    "package": "refresh_search_button",
-    "name": "Refresh Search Button",
+    "package": "browser_refresh_search_button",
+    "name": "Browser Refresh Search Button",
     "author": "FlaccidSnake",
     "version": "1.0.0",
     "homepage": "https://github.com/FlaccidSnake/browser-refresh",
